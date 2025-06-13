@@ -7,3 +7,4 @@ Objectif:
       - Installer les dépendances Python à partir de requirements.txt
       - Exécuter le script scraper.py
       - Archiver le fichier data.csv comme artefact dans Jenkins
+Screen shoot attached
